@@ -1,0 +1,12 @@
+{
+  "name": "scratch-multiplayer-server",
+  "version": "1.0.0",
+  "description": "WebSocket server for Scratch multiplayer",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.13.0"
+  }
+}
